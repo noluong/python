@@ -27,5 +27,5 @@ $ make format
 
 Using pre-commit git hooks to automate code checks
 
-If pre-commit hook failed, you can commit code to repository.
+If pre-commit hook failed, you can not commit code to repository.
 
